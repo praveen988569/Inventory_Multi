@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "854012753724",
+    "project_id": "arkinventory-1dde3",
+    "storage_bucket": "arkinventory-1dde3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:854012753724:android:37b4f29257fe93d5681039",
+        "android_client_info": {
+          "package_name": "com.example.ark_inventory"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqLN9F8C4KW5ns9WkK24KUpUj8dssU0p0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
